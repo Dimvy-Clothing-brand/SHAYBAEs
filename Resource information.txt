@@ -1,0 +1,23 @@
+Resource information
+Display name
+blockchain_analytics_ethereum_mainnet
+Resource type
+bigquery.googleapis.com/Dataset
+Location
+US
+Name
+//bigquery.googleapis.com/projects/gtm-kqqwvx2-zgi2z/datasets/blockchain_analytics_ethereum_mainnet
+Project Id
+gtm-kqqwvx2-zgi2z
+Project
+projects/1049906149317
+Parent asset type
+cloudresourcemanager.googleapis.com/Project
+Parent full resource name
+//cloudresourcemanager.googleapis.com/projects/gtm-kqqwvx2-zgi2z
+Description
+Source listing: [Blockchain Analytics Ethereum Mainnet](/bigquery;cameo=analyticshub;pageName=listing-detail;pageResource=938420344946.us.preview_google_cloud_blockchain_analytics_189b1d89e86.public_preview_blockchain_analytics_ethereum_mainnet_us_189c135b141)
+Tags
+No tags
+Labels
+No labels.
